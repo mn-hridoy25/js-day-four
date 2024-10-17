@@ -1,0 +1,7 @@
+কোন একটি কোডের ব্লককে একাধিক বার রান করার জন্য লুপ ব্যবহার করা হয়। লুপ ৩ প্রকারঃ
+    ১. for loop:-
+        1. for in loop
+        2. for of loop
+
+    ২. while loop:-
+        1. do while loop
